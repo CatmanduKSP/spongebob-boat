@@ -1,0 +1,9 @@
+﻿[package]
+name = "spongebob_boat"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+gilrs = "0.11.2"
+[target.'cfg(target_os = "linux")'.dependencies]
+rppal = "0.22.1"

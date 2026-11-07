@@ -1,0 +1,17 @@
+﻿Device,Device Pin,Controller Pin
+Left Driver,LPWM,GPIO 12
+Left Driver,RPWM,GPIO 13
+Left Driver,VCC,5V
+Left Driver,GND,GND
+Left Driver,R_EN,GPIO 22
+Left Driver,L_EN,GPIO 22
+Left Driver,R_IS,N/A
+Left Driver,L_IS,N/A
+Right Driver,LPWM,GPIO 18
+Right Driver,RPWM,GPIO 19
+Right Driver,VCC,5V
+Right Driver,GND,GND
+Right Driver,R_EN,GPIO 23
+Right Driver,L_EN,GPIO 23
+Right Driver,R_IS,N/A
+Right Driver,L_IS,N/A
